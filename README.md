@@ -1,5 +1,5 @@
-### Olá,  eu sou a Lucimar Neves👋
-
+<center><img src="https://github.com/lucimarNeves/lucimarNeves/blob/main/tecnologia.jpg">
+</center>
 
 
 
