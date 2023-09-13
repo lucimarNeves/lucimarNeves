@@ -1,7 +1,4 @@
-<center><img src="https://github.com/lucimarNeves/lucimarNeves/blob/main/tecnologia2.jpg">
-</center>
-
-
+<center><img src="https://github.com/lucimarNeves/lucimarNeves/blob/main/tecnologia2.jpg"></center>
 
 
 ## 🧠 Estou aprendendo...
