@@ -1,4 +1,4 @@
-<center><img src="https://github.com/lucimarNeves/lucimarNeves/blob/main/tecnologia.jpg">
+<center><img src="https://github.com/lucimarNeves/lucimarNeves/blob/main/tecnologia2.jpg">
 </center>
 
 
