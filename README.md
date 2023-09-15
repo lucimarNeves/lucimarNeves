@@ -1,5 +1,3 @@
-<center><img src="https://github.com/lucimarNeves/lucimarNeves/blob/main/tecnologia2.jpg"></center>
-
 
 ## 🧠 Estou aprendendo...
 #### Sou formada em Sistemas para Internet e atualmente estou cursando Desenvolvimento de Games
