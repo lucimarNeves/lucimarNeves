@@ -1,8 +1,7 @@
 
 ## 🧠 Estou aprendendo...
 #### Sou formada em Sistemas para Internet e atualmente estou cursando Desenvolvimento de Games
-#### Atualmente estou aprendendo desenvolvimento mobile Android pela Udemy
-#### E estou realizando o bootcamp de  desenvolvimento Kotlin pela Dio - Digital Innovation One
+
 
 
 ## Conecte-se comigo
